@@ -1,5 +1,5 @@
 - Simple React Application
 
-Practice using components and Bootstrap wiht React
+Practice using components and Bootstrap with React
 
 npm start!
